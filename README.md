@@ -1,6 +1,13 @@
 # Three-Address-Code-generation(compute-language-compiler)
 Three Address Code using lex and yacc
 
+
+##### project by
+```
+R.MOULI - 2017103555
+J.LOGESH - 2017103550
+```
+
 ## This is a language developed for compiler design assignment.
 
 *Has basic functionalities for number manipulation and boolean comparisons.
