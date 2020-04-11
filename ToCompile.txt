@@ -9,4 +9,3 @@ gcc -g lex.yy.c y.tab.c -o calc
 "The intermediate code generated to program.txt"
 
 cat program.txt
-
