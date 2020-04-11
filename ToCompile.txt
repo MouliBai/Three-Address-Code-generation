@@ -1,0 +1,12 @@
+yacc -d first_cal.y
+lex first_cal.l
+gcc -g lex.yy.c y.tab.c -o calc
+
+ "The program is executing.."
+
+./calc<input.in 
+
+"The intermediate code generated to program.txt"
+
+cat program.txt
+
